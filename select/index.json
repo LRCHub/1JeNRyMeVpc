@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Against",
+  "base_artist": "Eric.B.Jr.",
+  "createdAt": "2025-12-04T09:27:16.788682Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Against the Wind",
+      "artist": "The Highwaymen",
+      "has_synced": false,
+      "path": "select/01_Against_the_Wind_The_Highwaymen.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "If I Said You Had A Beautiful Body Would You Hold It Against Me",
+      "artist": "The Bellamy Brothers",
+      "has_synced": true,
+      "path": "select/02_If_I_Said_You_Had_A_Beautiful_Body_Would_You_Hold_It_Against_Me_The_Bellamy_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "If I Said You Had A Beautiful Body Would You Hold It Against Me",
+      "artist": "The Bellamy Brothers",
+      "has_synced": true,
+      "path": "select/03_If_I_Said_You_Had_A_Beautiful_Body_Would_You_Hold_It_Against_Me_The_Bellamy_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "If I Said You Have a Beautiful Body (Would You Hold It Against Me) (Re- Recorded)",
+      "artist": "The Bellamy Brothers",
+      "has_synced": false,
+      "path": "select/04_If_I_Said_You_Have_a_Beautiful_Body_(Would_You_Hold_It_Against_Me)_(Re-_Recorded_The_Bellamy_Brothers.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "If I Said You Have a Beautiful Body (Would You Hold It Against Me) (Rerecorded)",
+      "artist": "The Bellamy Brothers",
+      "has_synced": false,
+      "path": "select/05_If_I_Said_You_Have_a_Beautiful_Body_(Would_You_Hold_It_Against_Me)_(Rerecorded)_The_Bellamy_Brothers.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Up Against You",
+      "artist": "Aaron Tippin",
+      "has_synced": false,
+      "path": "select/06_Up_Against_You_Aaron_Tippin.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Up Against the Wall Redneck Mother",
+      "artist": "Jerry Jeff Walker",
+      "has_synced": true,
+      "path": "select/07_Up_Against_the_Wall_Redneck_Mother_Jerry_Jeff_Walker.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Against All Odds (feat. Flipmode Squad)",
+      "artist": "Busta Rhymes feat. Flipmode Squad",
+      "has_synced": true,
+      "path": "select/08_Against_All_Odds_(feat._Flipmode_Squad)_Busta_Rhymes_feat._Flipmode_Squad.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Against All Odds featuring Flipmode Squad",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/09_Against_All_Odds_featuring_Flipmode_Squad_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Against the World",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/10_Against_the_World_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bouncin' Back (Bumpin' Me Against the Wall)",
+      "artist": "Mystikal",
+      "has_synced": true,
+      "path": "select/11_Bouncin'_Back_(Bumpin'_Me_Against_the_Wall)_Mystikal.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Against I",
+      "artist": "Jedi Mind Tricks feat. Planetary of OuterSpace",
+      "has_synced": true,
+      "path": "select/12_I_Against_I_Jedi_Mind_Tricks_feat._Planetary_of_OuterSpace.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Against I ft. Planetary Of Outerspace",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": true,
+      "path": "select/13_I_Against_I_ft._Planetary_Of_Outerspace_Jedi_Mind_Tricks.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Me Against the World",
+      "artist": "2Pac",
+      "has_synced": false,
+      "path": "select/14_Me_Against_the_World_2Pac.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dead Against It",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/15_Dead_Against_It_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Song Against Sex",
+      "artist": "Neutral Milk Hotel",
+      "has_synced": true,
+      "path": "select/16_Song_Against_Sex_Neutral_Milk_Hotel.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Against (feat. Jin Dogg)",
+      "artist": "Eric.B.Jr.",
+      "has_synced": false,
+      "path": "select/pl_01_Against_(feat._Jin_Dogg)_Eric.B.Jr..txt"
+    }
+  ]
+}
